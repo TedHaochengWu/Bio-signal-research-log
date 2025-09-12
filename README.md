@@ -4,11 +4,14 @@
 This repository serves as my daily/weekly development log in the areas of *EEG signal processing* and *time-series modeling* .  
 It is both a *personal research notebook* and a *public record* to share progress with the community and future collaborators.
 
+
 **✨About Me**
 🎓Undergraduate researcher, majoring in *Artificial Intelligence* at Xiamen University Malaysia(2024 intake).  
 🔬Research interests: algorithms for healthcare, biosignal processing, EEG modeling ,Realtime decoding, wearable healthcare devices.
 
+
 **📅Progress Timeline**
+
 #up to Sep. 12, 2025
 - Serving as an *undergraduate researcher* in an academic group:
 - *One IEEE TBME submission (under review)*:  
