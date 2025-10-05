@@ -12,6 +12,11 @@ It is both a *personal research notebook* and a *public record* to share progres
 
 ##**📅Progress Timeline**
 
+###up to Oct. 5, 2025
+-2025 EEG Foundation Challenge:
+ fine-tuned some foudation model to check the performance: CBraMod,EEGMamba...to be add on later
+-IEEE SMC Hackthon: (https://github.com/unicorn-bi/Hackathon.git).
+ work in a team processing SSVEP data.
 ###up to Sep. 12, 2025
 - Serving as an *undergraduate researcher* in an academic group:
 - *One IEEE TIM submission (under review)*:  
