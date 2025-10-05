@@ -14,7 +14,7 @@ It is both a *personal research notebook* and a *public record* to share progres
 
 ###up to Sep. 12, 2025
 - Serving as an *undergraduate researcher* in an academic group:
-- *One IEEE TBME submission (under review)*:  
+- *One IEEE TIM submission (under review)*:  
   *[SleepDIFFormer: Sleep Stage Classification via Multivariate Differential Transformer](https://arxiv.org/abs/2508.15215)*  
   - Contributed to the **Methods writing**,  
   - Designed the **overall model architecture figure**,  
