@@ -12,11 +12,15 @@ It is both a *personal research notebook* and a *public record* to share progres
 
 ##**📅Progress Timeline**
 
+### up to Oct. 7, 2025
+-during *IEEE SMC Hackthon*, i compelte the tasks including data preprocessing and modeling,designed a *CNN-based Dual-Branch structur*e to analyse SSVEP data, draw charts to show the results.Rerpo:
+ https://github.com/mudcontract/ieee2025hackathon_g18team, also be the *presenter* during the "project presentation and Q&A" session.
+
 ###up to Oct. 5, 2025
--2025 EEG Foundation Challenge:
+-*2025 EEG Foundation Challenge*:
  fine-tuned some foudation model to check the performance: CBraMod,EEGMamba...to be add on later
  
--IEEE SMC Hackthon: (https://github.com/unicorn-bi/Hackathon.git).
+-*IEEE SMC Hackthon*: (https://github.com/unicorn-bi/Hackathon.git).
  work in a team processing SSVEP data.
  
 ###up to Sep. 12, 2025
