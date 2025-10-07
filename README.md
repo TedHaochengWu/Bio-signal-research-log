@@ -1,4 +1,4 @@
-# Bio-signa research log
+# Bio-signal research log
 
 ## **📌Purpose**
 This repository serves as my weekly/monthly development log in the areas of *EEG signal processing* and *time-series modeling* .  
@@ -21,7 +21,7 @@ It is both a *personal research notebook* and a *public record* to share progres
  fine-tuned some foudation model to check the performance: CBraMod,EEGMamba...to be add on later
  
 -*IEEE SMC Hackthon*: (https://github.com/unicorn-bi/Hackathon.git).
- work in a team processing SSVEP data.
+ work in a team processing SSVEP eeg data.
  
 ### up to Sep. 12, 2025
 - Serving as an *undergraduate researcher* in an academic group:
