@@ -1,11 +1,11 @@
-#Bio-signal-research-log
+# Bio-signal-research-log
 
-##**📌Purpose**
+## **📌Purpose**
 This repository serves as my weekly/monthly development log in the areas of *EEG signal processing* and *time-series modeling* .  
 It is both a *personal research notebook* and a *public record* to share progress with the community and future collaborators.
 
 
-##**✨About Me**
+## **✨About Me**
 🎓Undergraduate researcher, majoring in *Artificial Intelligence* at Xiamen University Malaysia(2024 intake).  
 🔬Research interests: algorithms for healthcare, biosignal processing, EEG modeling ,Realtime decoding, wearable healthcare devices.
 
@@ -16,14 +16,14 @@ It is both a *personal research notebook* and a *public record* to share progres
 -during *IEEE SMC Hackthon*, i compelte the tasks including data preprocessing and modeling,designed a *CNN-based Dual-Branch structur*e to analyse SSVEP data, draw charts to show the results.Rerpo:
  https://github.com/mudcontract/ieee2025hackathon_g18team, also be the *presenter* during the "project presentation and Q&A" session.
 
-###up to Oct. 5, 2025
+### up to Oct. 5, 2025
 -*2025 EEG Foundation Challenge*:
  fine-tuned some foudation model to check the performance: CBraMod,EEGMamba...to be add on later
  
 -*IEEE SMC Hackthon*: (https://github.com/unicorn-bi/Hackathon.git).
  work in a team processing SSVEP data.
  
-###up to Sep. 12, 2025
+### up to Sep. 12, 2025
 - Serving as an *undergraduate researcher* in an academic group:
 - *One IEEE TIM submission (under review)*:  
   *[SleepDIFFormer: Sleep Stage Classification via Multivariate Differential Transformer](https://arxiv.org/abs/2508.15215)*  
@@ -45,6 +45,6 @@ It is both a *personal research notebook* and a *public record* to share progres
     - Implementing basic paradigms such as Attention estimation, SSVEP and so on.
 
 
-##👉**Next steps**
+## 👉**Next steps**
 - Participate in *The 2025 EEG Foundation Challenge: From Cross-Task to Cross-Subject EEG Decoding is a biosignal challenge accepted to the NeurIPS 2025 Competition Track*
 - Find new research topic for next semester
