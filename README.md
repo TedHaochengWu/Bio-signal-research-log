@@ -1,4 +1,4 @@
-# Bio-signal-research-log
+# Bio-signa research log
 
 ## **📌Purpose**
 This repository serves as my weekly/monthly development log in the areas of *EEG signal processing* and *time-series modeling* .  
