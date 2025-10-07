@@ -1,7 +1,7 @@
 #Bio-signal-research-log
 
 ##**📌Purpose**
-This repository serves as my daily/weekly development log in the areas of *EEG signal processing* and *time-series modeling* .  
+This repository serves as my weekly/monthly development log in the areas of *EEG signal processing* and *time-series modeling* .  
 It is both a *personal research notebook* and a *public record* to share progress with the community and future collaborators.
 
 
