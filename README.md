@@ -14,7 +14,7 @@ It is both a *personal research notebook* and a *public record* to share progres
 
 ### up to Oct. 10, 2025
 -Meet some tough problem with no improvements in EEGChallenge models, i need to reconsider the fine tuning method and think deeper about the basic principle of EEG modeling.
- It's okay to have no improvements, anyway is a chance to find the breakthough point
+ It's okay to have no improvements, anyway it is a chance to find the breakthough point
 
 ### up to Oct. 7, 2025
 -during *IEEE SMC Hackthon*, i compelte the tasks including data preprocessing and modeling,designed a *CNN-based Dual-Branch structur*e to analyse SSVEP data, draw charts to show the results.Rerpo:
