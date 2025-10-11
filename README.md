@@ -15,7 +15,7 @@ It is both a *personal research notebook* and a *public record* to share progres
 ### up to Oct. 10, 2025
 -Meet some tough problem with no improvements in EEGChallenge models, i need to reconsider the fine tuning method and think deeper about the basic principle of EEG modeling.
  It's okay to have no improvements, anyway it is a chance to find the breakthough point
-
+ Yah up to 11, i decided to rethink everything from data to models with my group, it's not too late to do so, mainwhile it's a milestone.
 ### up to Oct. 7, 2025
 -during *IEEE SMC Hackthon*, i compelte the tasks including data preprocessing and modeling,designed a *CNN-based Dual-Branch structur*e to analyse SSVEP data, draw charts to show the results.Rerpo:
  https://github.com/mudcontract/ieee2025hackathon_g18team, also be the *presenter* during the "project presentation and Q&A" session.
